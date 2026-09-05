@@ -1,6 +1,0 @@
-Python Basics
-Introduction to AI
-Advanced Python
-Data Science with Python
-Machine Learning
-Unsupervised ML
